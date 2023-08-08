@@ -20,7 +20,7 @@ main {
     width: 100%;
     height: 100%; }
     main .swiper-wrapper .swiper-slide {
-      width: 100%;
+      width: 500px;
       height: 100%;
       background: rgba(255, 255, 255, 0.2);
       font-size: 100px;
